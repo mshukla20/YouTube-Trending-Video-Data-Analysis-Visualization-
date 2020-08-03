@@ -1,9 +1,8 @@
-# Youtube-Data-Script
+# YouTube Trending Video Data Analysis & Visualization                                                                 
 
-Analyze dataset associated with YouTube videos collected using the YouTube API
+•	Gathered data from Youtube API and stored it in AWS 
 
-Perform Sentiment Analysis to categorize videos based on comments and statistics
+•	Implemented statistical modelling technique to analyze previous trending videos 
 
-Train RNNs machine learning algorithm to generate own YouTube comments
+•	Analyzed comments using Machine Learning for sentimental analysis, achieved 93% accuracy
 
-Analyze factors affecting popularity of YouTube video and categorizing them as trending
